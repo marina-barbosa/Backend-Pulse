@@ -9,7 +9,7 @@ public class PraticandoPrint {
         int res=num1+num2;
         String palavra="teste OK";
 
-        System.out.print("Praticando os tipos de 'prints'.\n");
+        System.out.print("Praticando os tipos de \"prints\".\n");
         System.out.print(">>o comando print não tem quebra de linha automatica.\n");
         System.out.print("testando print com string: " + palavra +"\n");
         System.out.println(">>o comando println tem quebra de linha automatica no final.");

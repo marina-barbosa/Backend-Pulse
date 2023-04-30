@@ -1,0 +1,39 @@
+
+convenção de nomenclatura usada por developers para deixar o seu código mais legível para outros DEVs: https://www.alura.com.br/artigos/convencoes-nomenclatura-camel-pascal-kebab-snake-case
+
+comandos de impressão:  https://www.youtube.com/watch?v=_pl5GqDwG5A
+
+referencias no formato print java:  https://alvinalexander.com/programming/printf-format-cheat-sheet/
+
+print - nao executa quebra de linha automatica, pra quebrar linha com print use \n.
+
+println - executa quebra de linha no final.
+
+printf - abreviatura de print formatted, facilita a formatação.
+
+
+
+
+
+======   
+
+Metodo, função, procedimento : https://pt.stackoverflow.com/questions/11848/quais-s%C3%A3o-as-defini%C3%A7%C3%B5es-de-m%C3%A9todo-fun%C3%A7%C3%A3o-e-procedimento#:~:text=Fun%C3%A7%C3%A3o%3A%20Parte%20de%20um%20programa,%2C%20java%2C%20etc.).
+
+PROCEDIMENTO - é um algoritmo que será executado e nao retorna resultado. Exemplo: para ler o valor digitado por um usuário nós utilizamos o procedimento LEIA e para mostrar um texto na tela nós utilizamos o procedimento ESCREVA. O primeiro apenas guarda o texto e o segundo apenas imprime na tela, não retornando valores para serem usados.
+
+FUNÇÃO - é um algoritmo que será executado e produzirá um resultado final concreto que poderá ser usado por outro algoritmo. Por exemplo: Vc pode criar uma função pra calcular a raiz quadrada e retornar um valor. Sempre que precisar, a mesma função será chamada e não precisará recriar o calculo várias vezes no seu código. Vc criar apenas uma vez.
+
+E o MÉTODO, é uma função ou um procedimento?
+
+Um método pode ser tanto uma função quanto um procedimento. Chamamos uma função ou procedimento de método na programação orientada a objetos quando estes estão associados a um objeto ou uma classe. Método é o nome que se dá a funções e procedimentos em linguagens orientadas a objetos, apenas por uma questão conceitual destas linguagens. No fundo, acabam sendo a mesma coisa.
+
+
+=====
+
+
+
+
+
+
+
+
