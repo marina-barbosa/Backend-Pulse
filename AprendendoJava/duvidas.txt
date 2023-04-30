@@ -1,0 +1,14 @@
+o que é public? é um método?
+
+package nao pode ter nome com letra maiuscula?
+
+classe nao pode ter nome com letra misucula?
+
+pq System tem q ter letra maiuscula?
+
+o que é public, class, static, void, main, string?
+
+
+
+
+
