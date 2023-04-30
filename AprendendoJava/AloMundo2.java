@@ -1,4 +1,4 @@
-package AprendendoJava;
+package aprendendojava;
 
     public class AloMundo2 {
 
@@ -20,17 +20,7 @@ package AprendendoJava;
             System.out.printf("%s - %d%n","CBF Cursos",2021);
             System.out.printf("Valor da variavel num: %d%nNome: %s%n",num,nome);
             System.out.printf("Valor da soma: %d",res);
-
-
-
-               /*     comando de impressão
-
-               %n ou \n quebra de linha
-               print - nao executa quebra de linha
-               pra quebrar linha com print use \n
-               println - executa quebra de linha no final
-                
-                printf - A função printf (abreviatura de print formatted) exibe na tela do terminal uma lista formatada de números, caracteres, strings, etc. O primeiro argumento da função é uma string que especifica o formato da impressão.       */
+              
                 
 
         }
