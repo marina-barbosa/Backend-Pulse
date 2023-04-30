@@ -1,10 +1,10 @@
 
 
-comando de impressão   :    https://www.youtube.com/watch?v=_pl5GqDwG5A
+comandos de impressão   :    https://www.youtube.com/watch?v=_pl5GqDwG5A
 
-%n quebra de linha
-print - nao executa quebra de linha
-pra quebrar linha com print use \n
+
+print - basico, nao executa quebra de linha automatica, pra quebrar linha com print use \n
+
 println - executa quebra de linha no final
 
 printf - A função printf (abreviatura de print formatted) exibe na tela do terminal uma lista formatada de números, caracteres, strings, etc. O primeiro argumento da função é uma string que especifica o formato da impressão.
