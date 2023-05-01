@@ -11,9 +11,10 @@ println - executa quebra de linha no final.
 
 printf - abreviatura de print formatted, facilita a formatação.
 
+======
 
-
-
+&& = and
+|| = or
 
 ======   
 
