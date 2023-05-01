@@ -13,6 +13,7 @@ printf - abreviatura de print formatted, facilita a formatação.
 
 ======
 
+comando de decisao ifelse
 && = and
 || = or
 

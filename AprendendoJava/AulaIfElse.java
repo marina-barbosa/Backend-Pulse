@@ -6,6 +6,10 @@ public class AulaIfElse {
         int nota=70;
         int maxFaltas=10;
         int faltas=3;
+        String humor;
+        int humor2;
+
+
 
         if (nota >= media && faltas <= maxFaltas){
 
@@ -20,8 +24,14 @@ public class AulaIfElse {
             System.out.println("Reprovado :c");
         }
 
+        System.out.println("Você está feliz? ");
+        humor=(nota >= media ? "Sim" : "Não");             /* operação ternaria,atalho pra ifelse */
+        System.out.println(humor);
 
-        
+        humor2=(nota >= media ? 1 : 0);
+        System.out.println("Você esta mesmo feliz? "+ (humor2==1 ? "Sim!" : "Não!"));
+
+
     }
 
 }
