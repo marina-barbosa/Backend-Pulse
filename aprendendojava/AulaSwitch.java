@@ -1,4 +1,6 @@
 package aprendendojava;
+
+
 public class AulaSwitch {
 
     public static void main(String[] args) {
