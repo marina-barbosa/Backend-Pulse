@@ -21,35 +21,7 @@ public class AulaBreakContinue {
             }
         }
 
-
-
-        System.out.println("\n===================================");
-
-        //String[] itensColetados = new String[5];
-        String[] itensColetados = {"pocao","cajado","espada","escudo","pele","pocao"};
-        String itemNecessario1 = "espada";
-        String itemNecessario2 = "escudo";
-        String itemNecessario3 = "pocao";
-        int contador=0;
         
-
-        for(int i=0 ; i < itensColetados.length ; i++){
-            if(itensColetados[i] == itemNecessario1){
-                contador++;
-                System.out.println(contador);                
-
-            } else if(itensColetados[i] == itemNecessario2){
-                contador++;
-                System.out.println(contador);
-
-            } else if(itensColetados[i] == itemNecessario3){
-                contador++;
-                System.out.println(contador);
-                
-            }
-
-        }
-
     }
     
 }
