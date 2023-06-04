@@ -38,6 +38,7 @@ public class DesafioQuizResolução {
             }
         }
         System.out.printf("%s sua nota foi %d, você foi %s",aluno,nota,nota>=6?"aprovado.":"reprovado.");
+        scan.close();
     }
     
 }

@@ -1,6 +1,6 @@
 package aprendendojava.aulaarraylist;
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 
 public class AulaThrow {
     public static void main(String[] args) {
