@@ -1,4 +1,4 @@
-﻿# Backend Pulse - Repositório de Exercícios, Desafios e Pequenos Projetos de Cursos
+﻿# Repositório de Exercícios e Desafios e Pequenos Projetos de Cursos
 
 Bem-vindo ao meu repositório de aprendizado! Aqui você encontrará uma variedade de exercícios, desafios e pequenos projetos organizados por cursos de diferentes plataformas. Este repositório foi criado para centralizar e armazenar meu progresso de aprendizado em diferentes áreas. Sinta-se à vontade para explorar.
 
